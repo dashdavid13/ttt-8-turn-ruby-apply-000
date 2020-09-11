@@ -36,11 +36,6 @@ def move(board,index,player="X")
 end
 
 def turn(board)
-  index = input_to_index(user_input)
-   if valid_move?(board, index)
-      move(board, index, current_player(board))
-      turn(board)
-   end
-   display_board(board)
+  
 end
 
