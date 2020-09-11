@@ -45,4 +45,3 @@ def turn(board)
    end
 end
 
-d
