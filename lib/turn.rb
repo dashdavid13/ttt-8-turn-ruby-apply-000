@@ -34,4 +34,3 @@ def move(board,index,player="X")
 
 end
 
-def turn 
